@@ -15,7 +15,7 @@ const Footer = () => {
         <div className="grid-1 grid gap-8 md:grid-cols-2 lg:grid-cols-4">
           <div className="">
             <h6 className="mb-4 flex items-center justify-center font-semibold uppercase md:justify-start">
-              Crypto King
+              Crowdfund
             </h6>
             <p>
               Here you can use rows and colums to organize your footer content.
@@ -58,9 +58,9 @@ const Footer = () => {
         </div>
       </div>
       <div className="backgroundMain p-6 text-center">
-        <span>℗ 2025 Copyright:</span>
+        <span>℗ 2025 Copyright : </span>
         <a className="font-semibold" href="https://tailwind-elements.com/">
-            Crypto King
+            Crowdfund
         </a>
       </div>
     </footer>
