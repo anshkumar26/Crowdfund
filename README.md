@@ -20,7 +20,7 @@ BlockFundr is a decentralized crowdfunding platform built on blockchain technolo
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React.js, Tailwind CSS
+- **Frontend:** React.js(NextJS), Tailwind CSS
 - **Blockchain:** Solidity (Smart Contracts)
 - **Web3 Integration:** Ethers.js / Web3.js
 - **Development Environment:** Hardhat / Remix
@@ -49,4 +49,4 @@ cd blockfundr
 npm install
 
 # Start frontend
-npm start
+npm run dev
